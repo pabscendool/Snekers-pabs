@@ -1,0 +1,11 @@
+{
+  "name": "sneakers-pabs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Toko sneakers statis sneakers pabs",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "package": "python3 scripts/package_site.py"
+  }
+}

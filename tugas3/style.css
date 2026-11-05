@@ -1,0 +1,39 @@
+body {
+  background-color: aqua;
+  font-family: Arial, ;
+}
+
+h1 {
+  text-align: center;
+  color: darkblue;
+}
+
+hr {
+  border: 1px solid darkblue;
+  width: 75%;
+  margin: auto;
+}
+
+p {
+  font-size: 18px;
+}
+
+.namaa {
+  color: darkblue;
+}
+
+.tanggal-lahir {
+  color: goldenrod;
+}
+
+.alamat {
+  color: blueviolet;
+}
+
+.pekerjaan {
+  color: chartreuse;
+}
+
+.hobi {
+  color: crimson;
+}
